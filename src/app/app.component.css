@@ -1,0 +1,38 @@
+.header2 {
+  border: none;
+}
+
+.imputcep {
+  padding-left: 0px;
+  border: none;
+}
+
+.sectionbody {
+  background: url(../assets/images/photography-of-a-woman-listening-to-music-783243.jpg);
+  background-repeat: no-repeat;
+  height: 350px;
+  background-position: center;
+  background-size: cover;
+}
+
+.containeravatar {
+  margin-top: 45px;
+  justify-content: space-between;
+}
+
+.containeravatar img {
+  width: 120px;
+  height: 120px;
+  max-width: 100%;
+  border-radius: 50%;
+}
+
+.header3 {
+  border: none;
+  height: 400px;
+  max-width: 100%;
+}
+
+.texto1 {
+  text-align: justify;
+}

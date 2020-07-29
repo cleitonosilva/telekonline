@@ -24,6 +24,8 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "./node_modules/ngx-bootstrap/datepicker/bs-datepicker.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -88,6 +90,8 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "./node_modules/ngx-bootstrap/datepicker/bs-datepicker.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "telekonline"
+    }
+  },
+  "defaultProject": "telekonline",
+  "cli": {
+    "analytics": "8e003c9c-e0df-4695-9bc6-ab2ca842ea4b"
+  }
 }
